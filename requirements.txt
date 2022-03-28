@@ -1,6 +1,7 @@
 pandas
 numpy 
-json
+json5
+jsonschema
 urllib.request
 datetime
 certifi
