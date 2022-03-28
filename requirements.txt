@@ -187,7 +187,7 @@ Pygments
 PyJWT
 pylint
 pyls-spyder
-pyodbc===4.0.0-unsupported
+pyodbc==4.0.32
 pyOpenSSL
 pyparsing
 pyrsistent
