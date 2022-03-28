@@ -213,7 +213,6 @@ requests-oauthlib
 rope
 rsa
 Rtree
-ruamel-yaml-conda
 scikit-image
 scikit-learn
 scikit-learn-intelex
