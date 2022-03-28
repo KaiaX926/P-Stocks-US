@@ -4,7 +4,7 @@ json
 urllib.request
 datetime
 certifi
-seaborn as sns
+seaborn
 matplotlib.pyplot
 plotly
 jupyter
