@@ -1,0 +1,18 @@
+pandas
+numpy 
+json
+urllib.request
+datetime
+certifi
+seaborn as sns
+matplotlib.pyplot
+plotly
+jupyter
+jupyter-client 
+jupyter-console 
+jupyter-core
+jupyter-server
+jupyterlab
+jupyterlab-pygments
+jupyterlab-server
+jupyterlab-widgets
