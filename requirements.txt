@@ -64,7 +64,7 @@ fonttools
 fsspec
 future
 gast
-gcc
+gcc7
 geographiclib
 geopy
 gevent
