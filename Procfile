@@ -1,1 +1,1 @@
-web: bundle exec SANA.ipynb -p $PORT
+web: bundle exec SANA server -p $PORT
