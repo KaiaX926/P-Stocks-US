@@ -1,1 +1,1 @@
-web: bundle exec SANA server -p $PORT
+web: bundle exec rails server --port=$PORT
